@@ -163,7 +163,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Test\Exam.cshtml" />
+    <Content Include="Views\Test\Eaxm.cshtml" />
     <Content Include="Views\Test\Music.cshtml" />
   </ItemGroup>
   <ItemGroup>

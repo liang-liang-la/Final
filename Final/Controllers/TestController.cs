@@ -15,7 +15,7 @@ namespace Final.Controllers
             return View();
         }
 
-        public ActionResult Exam()
+        public ActionResult Eaxm()
         {
             return View();
         }
