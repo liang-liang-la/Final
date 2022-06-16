@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Exam";
+}
+
+
+
+@{
+    string[] fruits = { "蘋果", "香蕉", "荔枝", "鳳梨", "西瓜" };
+    var num = 0;
+}
+<p>姓名:陳亮樺</p>
+<p>學號:410828496</p>
+
+    @foreach (String i in fruits)
+    {
+        <p>@num : @i</p>
+         num = num + 1; 
+    }
